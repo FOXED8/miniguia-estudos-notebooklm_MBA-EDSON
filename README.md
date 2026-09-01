@@ -1,3 +1,4 @@
+
 # miniguia-estudos-notebooklm_MBA-EDSON
 Mini guia para aprimorar os conhecimentos acerca de Governança Corporativa e Compliance.
 
@@ -100,6 +101,8 @@ As especificidades do mercado de capitais e da estrutura societária dividem a g
 | **Conselho de Administração** | Unitário (Uma única chapa de diretores executivos e independentes). | Dual / Dois Níveis (Alemanha: Conselho Supervisor + Conselho Gestor). |
 | **Aparato Regulatório** | Regulação impositiva e leis severas (EUA - SOX) ou Código de autorregulação flexível (UK - *Comply or Explain*). | Regulação legislativa rígida e forte influência do Estado e de leis trabalhistas. |
 
+
+
 ---
 
 ## **2. Governança Corporativa no Brasil**
@@ -165,10 +168,57 @@ O Código organiza suas recomendações práticas sob a premissa de que a ética
 
 ---
 
-Fontes:
-[Texto do Link](https://seu-link.com)
-[Código das Melhores Práticas de Governança Corporativa - Instituto Brasileiro de Governança Corporativa (IBGC)](https://conhecimento.ibgc.org.br/Paginas/Publicacao.aspx?PubId=24640)
-[International Corporate Governance: A Case Study Approach - Christine A. Mallin](https://unioestebr-my.sharepoint.com/:b:/g/personal/edson_soares1_unioeste_br/IQDhUJ93YA7ZQJ7nS8Rq4HN9AUAC_wG5aDUgc8xzL6pZhqE?e=ZzyU4Z)
-GOVERNANÇA CORPORATIVA: no Brasil e no Mundo - Alexandre Di Miceli da Silveira
-Governança Corporativa: Um modelo brasileiro - Elismar Álvares, Celso Giacometti e Eduardo Gusso
-Corporate Governance Matters: A Closer Look at Organizational Choices and Their Consequences - David Larcker e Brian Tayan
+### **Referências bibliográficas:**
+
+[Referencial básico de GESTÃO DE RISCOS - TCU](https://github.com/user-attachments/files/31712804/Referencial_basico_de_gestao_de_riscos.pdf)
+
+[Governança Corporativa: Um modelo brasileiro - Elismar Álvares, Celso Giacometti e Eduardo Gusso](https://github.com/user-attachments/files/31712803/Governanca.Corporativa.2008.-.libgen.li.pdf)
+
+[International Corporate Governance: A Case Study Approach - Christine A. Mallin](https://github.com/user-attachments/files/31712802/Christine.Mallin.-.International.Corporate.Governance_.A.Case.Study.Approach.2006.Edward.Elgar.Publishin.pdf)
+
+[Código das Melhores Práticas de Governança Corporativa - Instituto Brasileiro de Governança Corporativa (IBGC)](https://github.com/user-attachments/files/31712801/BC4.-.CA.digo.das.melhores.prA.ticas.pdf)
+
+[Corporate Governance Matters: A Closer Look at Organizational Choices and Their Consequences - David Larcker e Brian Tayan](https://unioestebr-my.sharepoint.com/:u:/g/personal/edson_soares1_unioeste_br/IQDqGv6NImbiTZJqAWro0NCuAcJ1_Kya7I94vX6uJP4c5Fc?e=LDiuB5)
+
+É importante salientar que foram utilizadas 14 fontes no notebookLM, mas por razões privadas, decidir omitir elas aqui.
+
+---
+
+### **Prompts utilizados:**
+**1.**
+"**Contexto usuário:** Pessoa totalmente leiga nesse campo de estudo.
+
+**Objetivo:** Compreender que a informação, após criteriosa identificação, elaboração e uso adequado, possibilita aos agentes empresariais elementos básicos para o direcionamento e controle dos negócios, auxiliando os gestores identificarem-na identificação dos problemas relacionados à governança corporativa.
+
+**Elabore um plano dividido em 3 tópicos:**
+Governança Corporativa
+Gestão de Riscos
+Compliance
+
+Inicial, desenvolva apostilas com os principais conceitos bases para que todo o conteúdo possa ser compreendido."
+**2.**
+"Eu quero fazer um miniguia de estudos, preciso determinar o Contexto e Objetivos:
+
+**O contexto é:** Sou engenheiro e estudante de MBA em finanças empresariais, antes de me aprofundar no conteúdo didático da disciplina de governança corporativa e compliance, achei necessário fixar conceitos fundamentais.
+
+**Objetivos:** Desenvolver e fixar os principais conceitos da disciplina para maior aprofundamento durante as aulas, portanto, esse mini-guia visa maximizar o desempenho do aluno para melhor desempenho na disciplina.
+
+**Faça um resumo estruturado sobre:**
+
+**Governança Corporativa**
+1.1 Conflitos de Agência
+1.2 O Desenvolvimento da Governança Corporativa
+1.3 Objetivos, Concepções e Valores da Governança Corporativa
+1.4 Modelos de Governança Corporativa
+
+**Governança Corporativa no Brasil**
+2.1 Governança Corporativa no Brasil
+2.2 Instituto Brasileiro de Governança Corporativa (IBGC) e o Código das Melhores Práticas"
+
+**3. Materiais adicionais feito:**
+"Gostaria de um vídeo que me explicasse sobre os conceitos de:
+1. Governança Corporativa 1.1 Conflitos de Agência 1.2 O Desenvolvimento da Governança Corporativa 1.3 Objetivos, Concepções e Valores da Governança Corporativa 1.4 Modelos de Governança Corporativa Me explicando casos e situações onde esses conceitos são aplicados. Utilize uma linguagem mais informal (não tão técnica) como se fosse um professor explicando para um aluno."
+"Gostaria de um vídeo que me explicasse sobre os conceitos de Governança Corporativa no Brasil: Abordando: 2.1 Governança Corporativa no Brasil 2.2 Instituto Brasileiro de Governança Corporativa (IBGC) e o Código das Melhores Práticas Me explicando casos e situações onde esses conceitos são aplicados. Utilize uma linguagem mais informal (não tão técnica) como se fosse um professor explicando para um aluno."
+
+
+
